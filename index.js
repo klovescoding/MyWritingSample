@@ -10,20 +10,7 @@ small.appendChild(copyright);
 small.style.textAlign = "center";
 
 
-let skills = [
-    "HTML",
-    "CSS",
-    "Usability Testing",
-    "Website Audit"
-]
 
-let skillsSection = document.getElementById("skills");
-let skillsList = skillsSection.querySelector("ul");
-
-for (let i = 0; i < skills.length; i++) {
-    let skill = document.createElement("li")
-    skill.innerText = skills[i];
-    skillsList.appendChild(skill);
 }
 
 
