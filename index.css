@@ -85,4 +85,29 @@ html, body{
 
 
 /* ---------------------------------MOBILE-----------------------------------*/
+@media (max-width: 800px){
+    body{
+      font-size: 65%;
+    }
+
+    #connectPara {
+       
+        margin-top: 5%;
+        
+    
+      }
+
+}
+
+@media (max-width: 480px){
+    body{
+        font-size: 65%;
+      }
+  
+      #connectPara {
+         
+          margin-top: 5%;
+      }
+
+} 
 
