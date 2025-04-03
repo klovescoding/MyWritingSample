@@ -99,7 +99,7 @@ html, body{
 
 }
 
-@media (max-width: 370px){
+@media (max-width: 412px){
     body{
         font-size: 65%;
       }
