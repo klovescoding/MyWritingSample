@@ -85,6 +85,30 @@ html, body{
 
 
 /* ---------------------------------MOBILE-----------------------------------*/
+@media (max-width: 1325px){
+    body{
+        font-size: 65%;
+      }
+  
+      #connectPara {
+         
+          margin-top: 5%;
+      }
+
+} 
+
+@media (max-width: 1250px){
+    body{
+        font-size: 65%;
+      }
+  
+      #connectPara {
+         
+          margin-top: 5%;
+      }
+
+} 
+
 @media (max-width: 800px){
     body{
       font-size: 65%;
@@ -99,7 +123,31 @@ html, body{
 
 }
 
+@media (max-width: 480px){
+    body{
+        font-size: 65%;
+      }
+  
+      #connectPara {
+         
+          margin-top: 5%;
+      }
+
+} 
+
 @media (max-width: 412px){
+    body{
+        font-size: 65%;
+      }
+  
+      #connectPara {
+         
+          margin-top: 5%;
+      }
+
+} 
+
+@media (max-width: 370px){
     body{
         font-size: 65%;
       }
